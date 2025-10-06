@@ -1,2 +1,2 @@
-# aifuck
+# aifuck.txt
 AI 
